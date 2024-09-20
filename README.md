@@ -16,8 +16,7 @@ Print the image in three colors (white, gray, black) using decal.
  4. Check if the game server and the Python socket server (img_sever) are connected.
 
 **[ ! ] CAUTION :**
-
-   **The game server and Python server must be set to the same IP (same IP, different ports).**
+  **The game server and Python server must be set to the same IP (same IP, different ports).**
 
  [+] NOTE :
      The maximum number of connections to the Python server is 6, and duplicate IPs accessed from outside are set to disconnect.
