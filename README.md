@@ -1,6 +1,9 @@
 # [NMRiH/Any?] Decal image
 Print the image in three colors (white, gray, black) using decal.
 
+## Requirements )
+* **Socket extension :**
+
 ## Example )
 
 * **Orignal image :**
