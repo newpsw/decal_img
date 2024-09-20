@@ -17,7 +17,7 @@ Print image to ingame with three colors (white, gray, black) by using decal.
 
     **[ ! ] CAUTION :**
 
-    **The game server and Python server must be set to the same IP (same IP, different ports).**
+    **The game server and Python server(img_server) must be set to the same IP (same IP, different ports).**
 
    [+] NOTE :
  
