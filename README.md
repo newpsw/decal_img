@@ -47,8 +47,7 @@ Print image to ingame with three colors (white, gray, black) by using decal.
 
 ## Video
 
-https://www.youtube.com/watch?v=NmyVxr2R-AA
-
+ https://www.youtube.com/watch?v=NmyVxr2R-AA
 ## 
 
 * **Orignal image :**
