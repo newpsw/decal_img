@@ -1,8 +1,10 @@
 # [NMRiH/Any?] Decal image
 Print the image in three colors (white, gray, black) using decal.
 
+
 ## Requirements )
 * [**Socket extension**](http://forums.alliedmods.net/showthread.php?t=67640)
+
 
 ## Example )
 
