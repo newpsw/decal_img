@@ -4,9 +4,11 @@ Print the image in three colors (white, gray, black) using decal.
 ## Command list
 
 **!dp**
+
 Reprints the last printed image.
 
 **!dp+url**
+
 Downloads and prints the image from the url.
 
 Example command line)
