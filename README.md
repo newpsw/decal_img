@@ -1,6 +1,6 @@
 # [NMRiH/Any?] Decal image
 
-Print the image in three colors (white, gray, black) using decal.
+Print image to ingame with three colors (white, gray, black) by using decal.
 
 [+] NOTE: Due to the limited number of decals usable, black tile will not printed to reduce the number of decals.
 
