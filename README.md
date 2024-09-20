@@ -1,6 +1,11 @@
 # [NMRiH/Any?] Decal image
 Print the image in three colors (white, gray, black) using decal.
 
+
+## Requirements
+* [**Socket extension**](http://forums.alliedmods.net/showthread.php?t=67640)
+
+
 ## Command list
 
 **!dp**
@@ -15,11 +20,8 @@ Example command line)
 
 !dphttps://steamuserimages-a.akamaihd.net/ugc/2389811413347088108/F803727C196C745E5E2A14EE8996CF904477ABBD/
 
-## Requirements
-* [**Socket extension**](http://forums.alliedmods.net/showthread.php?t=67640)
 
-
-## Example
+## 
 
 * **Orignal image :**
 
