@@ -20,6 +20,7 @@ Print image to ingame with three colors (white, gray, black) by using decal.
     **The game server and Python server must be set to the same IP (same IP, different ports).**
 
  [+] NOTE :
+ 
      The maximum number of connections to the Python server is 6, and duplicate IPs accessed from outside are set to disconnect.
      
      When the in-game server is connected to the Python server,
