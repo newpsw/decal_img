@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+    "$basetexture" "paint/paint_1133"
+    "$decal" 1
+    "$decalscale" 0.25
+    "$color" "{255 255 255}"
+}
