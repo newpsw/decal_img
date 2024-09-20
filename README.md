@@ -6,7 +6,7 @@ NOTE: Due to the limited number of decals usable, black tile will not printed to
 
 ## Requirements
 * [**Socket extension**](http://forums.alliedmods.net/showthread.php?t=67640)
-
+* [**img_server**](https://github.com/newpsw/img_server)
 
 ## Command list
 
