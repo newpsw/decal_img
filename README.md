@@ -2,7 +2,7 @@
 
 Print image to ingame with three colors (white, gray, black) by using decal.
 
-[+] NOTE: Due to the limited number of decals usable, black tile will not printed to reduce the number of decals.
+[+] NOTE: Due to the limited number of usable decals, black tile will not printed to reduce the number of decals.
 
 ## Requirements
 * [**Socket extension**](http://forums.alliedmods.net/showthread.php?t=67640)
