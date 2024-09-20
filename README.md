@@ -14,9 +14,11 @@ NOTE: Due to the limited number of decals usable, black tile will not printed to
 
  Reprints the last printed image.
 
+  
 * **!dp+url**
 
  Downloads and prints the image from the url.
+ If download the image from the url fails, it will reprints the last printed image.
 
  **- Example command line :**
     
