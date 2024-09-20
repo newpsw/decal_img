@@ -18,7 +18,7 @@ NOTE: Due to the limited number of decals usable, black tile will not printed to
 
  Downloads and prints the image from the url.
 
- - Example command line :
+ - **Example command line :**
 
    !dphttps://steamuserimages-a.akamaihd.net/ugc/2389811413347088108/F803727C196C745E5E2A14EE8996CF904477ABBD/
 
