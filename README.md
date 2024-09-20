@@ -2,7 +2,7 @@
 
 Print the image in three colors (white, gray, black) using decal.
 
-[+]NNOTE: Due to the limited number of decals usable, black tile will not printed to reduce the number of decals.
+[+] NOTE: Due to the limited number of decals usable, black tile will not printed to reduce the number of decals.
 
 ## Requirements
 * [**Socket extension**](http://forums.alliedmods.net/showthread.php?t=67640)
