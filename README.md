@@ -1,6 +1,17 @@
 # [NMRiH/Any?] Decal image
 Print the image in three colors (white, gray, black) using decal.
 
+## Command list
+
+**!dp**
+Reprints the last printed image.
+
+**!dp+url**
+Downloads and prints the image from the url.
+
+Example command line)
+
+!dphttps://steamuserimages-a.akamaihd.net/ugc/2389811413347088108/F803727C196C745E5E2A14EE8996CF904477ABBD/
 
 ## Requirements
 * [**Socket extension**](http://forums.alliedmods.net/showthread.php?t=67640)
