@@ -2,11 +2,27 @@
 
 Print the image in three colors (white, gray, black) using decal.
 
-NOTE: Due to the limited number of decals usable, black tile will not printed to reduce the number of decals.
+[*]NNOTE: Due to the limited number of decals usable, black tile will not printed to reduce the number of decals.
 
 ## Requirements
 * [**Socket extension**](http://forums.alliedmods.net/showthread.php?t=67640)
 * [**img_server**](https://github.com/newpsw/img_server)
+
+## Environment settings
+
+ 1. Run the Python 'image_server'.
+ 2. Set the server port and also set the secret code to be include in text.
+ 3. Run a game server with the 'decal_img' plugin included.
+ 4. Check if the game server and the Python socket server (img_sever) are connected.
+
+ [!] CAUTION :
+     The game server and Python server must be set to the same IP (same IP, different ports).
+
+ [*] NOTE :
+     The maximum number of connections to the Python server is 6, and duplicate IPs accessed from outside are set to disconnect.
+     When the in-game server is connected to the Python server,
+     you can communicate with the in-game player by connecting to the Python server from the outside using a tcp client and sending text in utf-8 format.
+     (If you do not include the secret code to end of the text you send, the connection will be disconnected.)
 
 ## Command list
 
