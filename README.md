@@ -2,7 +2,7 @@
 Print the image in three colors (white, gray, black) using decal.
 
 ## Requirements )
-* **Socket extension**
+* [**Socket extension**](http://forums.alliedmods.net/showthread.php?t=67640)
 
 ## Example )
 
