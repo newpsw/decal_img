@@ -50,7 +50,7 @@ Print image to ingame with three colors (white, gray, black) by using decal.
  https://www.youtube.com/watch?v=NmyVxr2R-AA
 ## 
 
-* **Orignal image :**
+* **Original image :**
 
 ![image](https://github.com/user-attachments/assets/75c63c99-cb53-41d4-baa3-bfe270a2f5f2)
 
